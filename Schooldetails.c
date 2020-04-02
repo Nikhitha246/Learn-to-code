@@ -1,4 +1,5 @@
 #include<stdio.h>
+#include<string.h>
 
 //Compiler version gcc  6.3.0
 
