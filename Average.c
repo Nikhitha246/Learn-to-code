@@ -8,7 +8,7 @@ int main()
   int name[20];
   float a,b,avg;   
   printf("Enter the name of the student: \n");
-  scanf("%s",&name[]);
+  scanf("%s",&name);
   printf("enter the marks of the student: \n");
   scanf("%f%f",&a,&b);
   avg=(a+b)/2;
