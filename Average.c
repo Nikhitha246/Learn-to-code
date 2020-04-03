@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include<math.h>
 
 //Compiler version gcc  6.3.0
 /*a and b are marks of the student */
@@ -9,7 +8,7 @@ int main()
   int name[20];
   float a,b,avg;   
   printf("Enter the name of the student: \n");
-  scanf("%s",&name[20]);
+  scanf("%s",&name[]);
   printf("enter the marks of the student: \n");
   scanf("%f%f",&a,&b);
   avg=(a+b)/2;
