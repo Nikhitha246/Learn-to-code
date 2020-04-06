@@ -17,4 +17,5 @@ int main()
   printf("Grade D");
   else
   printf("Fail");
+return 0;
 }
