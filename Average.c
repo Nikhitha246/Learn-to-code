@@ -5,7 +5,7 @@
   /*Average of those marks are stored in avg*/
 int main()
 {
-  int name[20];
+  char name[20];
   float a,b,avg;   
   printf("Enter the name of the student: \n");
   scanf("%s",name);
