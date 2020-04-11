@@ -9,7 +9,7 @@ int main()
   scanf("%d",&age);
   if(age>=60)
   printf("The amount is 10,000");
-  if(age>=50)
+ else if(age>=50)
   printf("The amount is 5000");
   else
   printf("There is no pension");
