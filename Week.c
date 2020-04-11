@@ -10,33 +10,33 @@ int main()
   switch (day)
   {
     case 1:
-      if(day==1)
+      
       printf("monday");
       break;
       case 2:
-      if(day==2)
+     
       printf("Tuesday");
       break;
       
       case 3:
-      if(day==1)
+      
       printf("Wednesday");
       break;
       
   case 4:
-      if(day==4)
+      
       printf("Thursday");
       break;
       case 5:
-      if(day==1)
+      
       printf("Friday");
       break;
       case 6:
-      if(day==6)
+      
       printf("Saturday");
       break;
       case 7:
-      if(day==7)
+      
       printf("sunday");
       break;
       }
